@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="config_dockedStackDividerFreeSnapMode">true</bool>
+    <integer name="config_dockedStackDividerSnapMode">1</integer>
+    <fraction name="docked_stack_divider_fixed_ratio">10.0%</fraction>
+    <dimen name="default_minimal_size_resizable_task">10dp</dimen>
+</resources>
